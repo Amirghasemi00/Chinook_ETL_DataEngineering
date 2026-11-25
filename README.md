@@ -1,2 +1,1 @@
-# Chinook_ETL_DataEngineering
-A data engineering project using SQL Server, PostgreSQL, ClickHouse, Airflow, and Grafana. It includes ETL pipelines, change data capture (CDC), automated data updates, and dashboards for reporting.
+A Data Engineering project using the Chinook database to build ETL pipelines with Apache Airflow and Apache Kafka. Includes SQL Server CDC, PostgreSQL, ClickHouse, and Grafana dashboards.
